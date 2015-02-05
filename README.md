@@ -1,6 +1,8 @@
 # Easy-Tabs
 Allows you to easily manage your tabs. Now you can easly pin/unpin, reload and hide/unhide with single clicks
 
+You can find it on chrome web store: http://goo.gl/2ozTBz
+
 Easy Tabs allows you to be more productive in your daily internet usage. It allows you to:
 
 - Reload all the opened (pinned) tabs at once
