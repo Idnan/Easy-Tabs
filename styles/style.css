@@ -15,7 +15,7 @@ html body {
 }
 
 body {
-	background: #DDD url('img/canvas.jpg') repeat !important;
+	background: #DDD url('../images/canvas.jpg') repeat !important;
 	overflow: hidden;
 	margin: 0px;
 	width: 381px;
@@ -201,7 +201,7 @@ a:hover, a:focus {
 	height: 14px;
 	line-height: 14px;
 	vertical-align: text-top;
-	background-image: url("img/glyphicons-halflings.png");
+	background-image: url("../images/glyphicons-halflings.png");
 	background-position: 14px 14px;
 	background-repeat: no-repeat;
 	margin-top: 1px;
